@@ -74,7 +74,7 @@ function Triangulo() {
 
       <circle cx="290" cy="250" r="30" fill="#c77a00" />
       <text x="290" y="260" textAnchor="middle" fontSize="28">🟢</text>
-      <text x="290" y="299" textAnchor="middle" className="tri-etiqueta">Disponibilidad</text>
+      <text x="290" y="299" textAnchor="middle" className="tri-etiqueta">Disponibilidadd</text>
     </svg>
   )
 }
